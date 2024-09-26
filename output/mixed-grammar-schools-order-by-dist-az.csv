@@ -1,0 +1,45 @@
+County,Town,School,Address,Route,RouteInKm,RouteInMins
+Bexley,Welling,Bexley Grammar School,"Danson Ln, Welling DA16 2BL, UK","('14.3 km', '47 mins')",14.3 km,47
+Bexley,Sidcup,Chislehurst and Sidcup Grammar School,"Hurst Rd, Sidcup DA15 9AG, UK","('16.4 km', '58 mins')",16.4 km,58
+Enfield,Edmonton,The Latymer School,"Latymer Secondary School, Haselbury Rd, London N9 9TN, UK","('21.0 km', '1 hour 17 mins')",21.0 km,77
+Slough,Slough,Upton Court Grammar School,"Lascelles Rd, London, Slough SL3 7PR, UK","('45.0 km', '1 hour 22 mins')",45.0 km,82
+Slough,Langley,Langley Grammar School,"Langley Grammar School, Reddington Dr, Langley, Slough SL3 7QS, UK","('41.2 km', '1 hour 24 mins')",41.2 km,84
+Slough,Langley,St Bernard's Catholic Grammar School,"St. Bernards Catholic Grammar School, 1 Langley Rd, Slough SL3 7AF, UK","('45.4 km', '1 hour 24 mins')",45.4 km,84
+Slough,Slough,Herschel Grammar School,"Berkshire, Northampton Ave, Slough SL1 3BW, UK","('44.7 km', '1 hour 42 mins')",44.7 km,102
+Buckinghamshire,Aylesbury,Sir Henry Floyd Grammar School,"Oxford Rd, Aylesbury HP21 8PE, UK","('75.4 km', '1 hour 46 mins')",75.4 km,106
+Kent,Cranbrook,Cranbrook School,"Waterloo Rd, Cranbrook TN17 3JD, UK","('80.4 km', '1 hour 47 mins')",80.4 km,107
+Kent,Canterbury,Barton Court Grammar School,"Longport, Canterbury CT1 1PH, UK","('91.6 km', '2 hours 8 mins')",91.6 km,128
+Kent,Ramsgate,Chatham and Clarendon Grammar School,"Clarendon Gardens, Ramsgate CT11 9BB, UK","('137 km', '2 hours 11 mins')",137 km,131
+Lincolnshire,Bourne,Bourne Grammar School,"South Rd, Bourne PE10 9JE, UK","('157 km', '2 hours 24 mins')",157 km,144
+Kent,Broadstairs,Dane Court Grammar School,"Broadstairs Rd, Broadstairs CT10 2RT, UK","('125 km', '2 hours 27 mins')",125 km,147
+Buckinghamshire,Buckingham,Royal Latin School,"Chandos Rd, Buckingham MK18 1AX, UK","('120 km', '2 hours 31 mins')",120 km,151
+Buckinghamshire,Burnham,Burnham Grammar School,"Hogfair Ln, Burnham, Slough SL1 7HG, UK","('55.3 km', '2 hours 50 mins')",55.3 km,170
+Buckinghamshire,Chesham,Chesham Grammar School,"White Hill, Chesham HP5 1BA, UK","('57.0 km', '3 hours 3 mins')",57.0 km,183
+Buckinghamshire,Marlow,Sir William Borlase's Grammar School,"West St, Marlow SL7 2BR, UK","('65.7 km', '3 hours 22 mins')",65.7 km,202
+Lincolnshire,Gainsborough,Queen Elizabeth's High School,"Morton Terrace, Gainsborough DN21 2ST, UK","('298 km', '3 hours 28 mins')",298 km,208
+Warwickshire,Alcester,Alcester Grammar School,"Birmingham Rd, Alcester B49 5ED, UK","('232 km', '3 hours 40 mins')",232 km,220
+Lincolnshire,Horncastle,Queen Elizabeth's Grammar School,"West St, Horncastle LN9 5AD, UK","('265 km', '3 hours 41 mins')",265 km,221
+Devon,Colyford,Colyton Grammar School,"Whitwell Ln, Colyford, Colyton EX24 6HN, UK","('252 km', '3 hours 55 mins')",252 km,235
+Gloucestershire,Cheltenham,Pate's Grammar School,"Princess Elizabeth Way, Cheltenham GL51 0HG, UK","('200 km', '4 hours 1 min')",200 km,241
+Lincolnshire,Alford,Queen Elizabeth's Grammar School,"Station Rd, Alford LN13 9HY, UK","('276 km', '4 hours 21 mins')",276 km,261
+Lancashire,Waterfoot,Bacup and Rawtenstall Grammar School,"Glen Rd, Waterfoot, Rossendale BB4 7BJ, UK","('336 km', '4 hours 36 mins')",336 km,276
+Lincolnshire,Louth,King Edward VI Grammar School,"Edward St, Louth LN11 9LL, UK","('319 km', '4 hours 41 mins')",319 km,281
+Calderdale,Halifax,North Halifax Grammar School,"Moor Bottom Rd, Halifax HX2 9SU, UK","('349 km', '4 hours 46 mins')",349 km,286
+Lincolnshire,Caistor,Caistor Grammar School,"Caistor, Market Rasen LN7 6QJ, UK","('306 km', '5 hours 1 min')",306 km,301
+Lincolnshire,Skegness,Skegness Grammar School,"Vernon Rd, Skegness PE25 2QS, UK","('270 km', '5 hours 14 mins')",270 km,314
+Gloucestershire,Gloucester,The Crypt School,"Crypt Grammar School, Podsmead Rd, Gloucester GL2 5AE, UK","('213 km', '5 hours 55 mins')",213 km,355
+Medway,Rainham,Rainham Mark Grammar School,"Pump Ln, Rainham, Gillingham ME8 7AJ, UK","('57.2 km', '6 hours 12 mins')",57.2 km,372
+Torbay,Galmpton,Churston Ferrers Grammar School,"Greenway Rd, Galmpton, Brixham TQ5 0LN, UK","('343 km', '6 hours 15 mins')",343 km,375
+Birmingham,Bartley Green,King Edward VI Five Ways School,"Scotland Ln, Bartley Green, Birmingham B32 4BT, UK","('301 km', '6 hours 34 mins')",301 km,394
+Kent,Faversham,Queen Elizabeth's Grammar School,"Abbey Pl, Faversham ME13 7BQ, UK","('160 km', '6 hours 40 mins')",160 km,400
+Trafford,Stretford,Stretford Grammar School,"Granby Rd, Stretford, Manchester M32 8JB, UK","('347 km', '6 hours 49 mins')",347 km,409
+Liverpool,Wavertree,Liverpool Blue Coat School,"Church Rd, Liverpool L15 9EE, UK","('327 km', '6 hours 58 mins')",327 km,418
+Stoke-on-Trent,Stoke-on-Trent,St. Joseph's College,"London Rd, Trent Vale, Stoke-on-Trent ST4 5NT, UK","('255 km', '7 hours 2 mins')",255 km,422
+Trafford,Urmston,Urmston Grammar School,"Newton Rd, Urmston, Manchester M41 5UG, UK","('352 km', '7 hours 5 mins')",352 km,425
+Kent,Sandwich,Sir Roger Manwood's School,"Manwood Rd, Sandwich CT13 9JX, UK","('150 km', '7 hours 10 mins')",150 km,430
+Trafford,Sale,Sale Grammar School,"Marsland Rd, Sale M33 3NH, UK","('352 km', '7 hours 10 mins')",352 km,430
+Cumbria,Penrith,Queen Elizabeth Grammar School,"Ullswater Rd, Penrith CA11 7EG, UK","('523 km', '7 hours 13 mins')",523 km,433
+Kirklees,Heckmondwike,Heckmondwike Grammar School,"High St, Heckmondwike WF16 0AH, UK","('396 km', '7 hours 41 mins')",396 km,461
+Calderdale,Halifax,The Crossley Heath School,"Skircoat Moor Rd, Halifax HX3 0HG, UK","('389 km', '7 hours 56 mins')",389 km,476
+North Yorkshire,Ripon,Ripon Grammar School,"16 Clotherholme Rd, Ripon HG4 2DG, UK","('355 km', '9 hours 52 mins')",355 km,592
+Lancashire,Clitheroe,Clitheroe Royal Grammar School,"Chatburn Rd, Clitheroe BB7 2BA, UK","('388 km', '10 hours 16 mins')",388 km,616
